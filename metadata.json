@@ -1,5 +1,0 @@
-{
-  "name": "Wealth Tax Calculator",
-  "description": "A React application to calculate Norwegian wealth tax and analyze the required return on investment to maintain purchasing power after taxes and inflation.",
-  "requestFramePermissions": []
-}
